@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jay Aditya GG</h1>
+<h1 align="center">Hi 👋, I'm Jaiaditya Ghorpade</h1>
 <h3 align="center">Student,Coder,Robot Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazingfire03&label=Profile%20views&color=0e75b6&style=flat" alt="blazingfire03" /> </p>
 
 - 🔭 I’m currently working on **Robot Simulation**
 
-- 🌱 I’m currently learning **ROSS and it's application**
+- 🌱 I’m currently learning **ROS and it's application**
 
-- 👯 I’m looking to collaborate on **ROSS**
+- 👯 I’m looking to collaborate on **ROS**
 
-- 🤝 I’m looking for help with **ROSS environment**
+- 🤝 I’m looking for help with **ROS environment**
 
 - 📫 How to reach me **jg1715@srmist.edu.in**
 
