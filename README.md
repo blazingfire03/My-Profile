@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hi, I'm Jai 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=JAI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20%7C%20ROS%202%20%7C%20Assistive%20Robotics&descAlignY=55&descSize=18" width="100%"/>
 
-### Robotics Engineer · ROS 2 · Assistive Robotics · Systems Integration
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+Engineering+%40+Northeastern+University;ROS+2+%7C+Sensor+Fusion+%7C+Assistive+Robotics;Building+the+RAMMP+Platform;Ex-ATDev+%E2%86%92+RIVeR+Lab" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Robotics+Engineering+%40+Northeastern+University;ROS+2+%7C+Sensor+Fusion+%7C+Assistive+Robotics;Building+the+RAMMP+Platform;Ex-ATDev+%E2%86%92+RIVeR+Lab" alt="Typing SVG" />
+<br/>
+
+<img src="https://img.shields.io/badge/status-open_to_opportunities-00F7FF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=3&width=100%"/>
 
 ### ⚡ About Me
 
@@ -18,24 +20,25 @@
 - 🤝 Collaborated closely with the **HERL** team on assistive wheelchair robotics
 - 🧠 Interests span **robotics, sensor fusion, trajectory optimization, and applied ML**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=2&width=100%"/>
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-![ROS2](https://img.shields.io/badge/ROS_2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ros,cpp,python,linux,docker,git,github,githubactions,opencv,tensorflow&theme=dark" />
 
 </div>
 
----
+<div align="center">
+
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ROS2 Humble](https://img.shields.io/badge/ROS_2-Humble-22314E?style=flat-square&logo=ros&logoColor=white)
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=2&width=100%"/>
 
 ### 🤖 What I've Been Building
 
@@ -56,7 +59,7 @@
     └── Issue-driven branching + PR review workflows
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=2&width=100%"/>
 
 ### 📊 GitHub Stats
 
@@ -71,7 +74,11 @@
 
 > Replace `your-github-username` above with your actual GitHub username to activate the stat cards.
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=2&width=100%"/>
 
 ### 📈 Contribution Graph
 
@@ -79,7 +86,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=2&width=100%"/>
 
 ### 🌐 Connect
 
@@ -90,6 +97,13 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=00F7FF" alt="profile views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=100&section=footer" width="100%"/>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=00F7FF" alt="profile views" />
